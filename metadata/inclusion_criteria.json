@@ -1,26 +1,26 @@
 {
     "population": {
-        "inclusion": ["Adults aged 18-65 with a diagnosis of major depression"],
-        "exclusion": []
+        "inclusion": ["participants pre-selected for elevated eating disorder symptoms, as established through either a formal diagnostic interview confirming a threshold or subthreshold diagnosis, scores above a validated cutoff on a standardized rating scale, or endorsement of eating disorder behaviors (eg, >=3 objective binge episodes)"],
+        "exclusion": ["Unselected samples, or those screened solely for risk factors (eg, weight concerns) without the presence of eating disorder symptoms"]
     },
     "intervention": {
-        "inclusion": ["Psychotherapy"],
-        "exclusion": []
+        "inclusion": ["Digital interventions for eating disorders (defined as interventions delivered via a computer, mobile phone, or tablet, where the means of delivery included the internet, downloadable software, CD-ROM, smartphone application, or chatbot; professional or peer support was permitted)"],
+        "exclusion": ["therapist-led treatments delivered via online means (eg, video conferencing and so on), cognitive training programs, blended treatments, and relapse prevention programs"]
     },
     "comparison": {
-        "inclusion": ["Inactive control group (e.g., waitlist, no treatment, care-as-usual)"],
+        "inclusion": ["control group (waiting list, usual care, placebo, educational resources, or other nontherapeutic material)"],
         "exclusion": []
     },
     "outcome": {
-        "inclusion": ["Depressive symptom severity, measured by a validated scale (e.g., HAM-D, BDI)"],
+        "inclusion": [],
         "exclusion": []
     },
     "study_design": {
-        "inclusion": ["Randomized controlled trials (RCTs)"],
+        "inclusion": ["Randomized controlled trials"],
         "exclusion": []
     },
     "other": {
-        "inclusion": [],
+        "inclusion": ["published and unpublished studies"],
         "exclusion": []
     }
 }
